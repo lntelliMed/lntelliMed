@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/lntelliMed/lntelliMed/blob/master/biorhythm.png" alt="BioRhythm Technologies is an AI-focused consulting firm that builds machine learning solutions to maximize business success for companies and organizations across wide range of industries." width=320px height=300px />
+<img align="right" src="https://github.com/lntelliMed/lntelliMed/blob/master/ai.jpg" alt="BioRhythm Technologies is an AI-focused consulting firm that builds machine learning solutions to maximize business success for companies and organizations across wide range of industries." width=50% height=100% />
 
 ### Hi there, I'm Sam! 👋
 
