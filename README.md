@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/lntelliMed/lntelliMed/blob/master/siraj.gif" alt="Doctor Siraj is an AI powered chatbot that has been trained on hundreds of thousands of medical questions and answers from several online resources." width=320px height=300px />
+<img align="right" src="https://github.com/lntelliMed/lntelliMed/blob/master/biorhythm.png" alt="BioRhythm Technologies is an AI-focused consulting firm that builds machine learning solutions to maximize business success for companies and organizations across wide range of industries." width=320px height=300px />
 
 ### Hi there, I'm Sam! 👋
 
