@@ -8,8 +8,13 @@ I am the founder of [BioRhythm Technologies](https://www.biorhythm.io/) and a so
 - You'll notice from the wide range of projects that I love building all kinds of things! Check out the rest of my portfolio on GitHub!
 - How to reach me: sam.alsmadi@biorhythm.io or Instagram [@sam.alsmadi](https://www.instagram.com/sam.alsmadi/)
 
-### Some of my blog posts
+<h1>Latest Blog Posts</h1>
+  <ul>
+    <li><a href=https://medium.com/biorhythm-technologies/getting-started-with-tensorflow-js-simple-and-gate-implementation-9e6e47214ab6/>Getting started with TensorFlow.js — Simple AND Gate Implementation</a></li>
+    <li><a href=https://medium.com/biorhythm-technologies/a-gentle-introduction-to-machine-learning-classification-of-malignant-melanoma-and-benign-skin-84d7cb4254e5/>A Gentle Introduction to Machine Learning — Classification of Malignant Melanoma and Benign Skin Lesions Using Google’s TensorFlow Library</a></li>
+    <li><a href=https://medium.com/biorhythm-technologies/a-dsp-based-instrument-for-real-time-classification-of-pulmonary-sounds-db32bdf2b66a/>A DSP based instrument for real-time classification of pulmonary sounds</a></li>
+  </ul>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482507001278">➡️ More publications</a></p>
 
-* [Getting started with TensorFlow.js — Simple AND Gate Implementation](https://medium.com/biorhythm-technologies/getting-started-with-tensorflow-js-simple-and-gate-implementation-9e6e47214ab6)
-* [A Gentle Introduction to Machine Learning — Classification of Malignant Melanoma and Benign Skin Lesions Using Google’s TensorFlow Library](https://medium.com/biorhythm-technologies/a-gentle-introduction-to-machine-learning-classification-of-malignant-melanoma-and-benign-skin-84d7cb4254e5)
-* [A DSP based instrument for real-time classification of pulmonary sounds](https://medium.com/biorhythm-technologies/a-dsp-based-instrument-for-real-time-classification-of-pulmonary-sounds-db32bdf2b66a)
+<p><a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/samalsmadi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sam.alsmadi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@sam.alsmadi"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p><a href="https://www.biorhythm.io/">🌐 Visit website</a></p>
