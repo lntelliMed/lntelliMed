@@ -6,7 +6,7 @@ I am the founder of [BioRhythm Technologies](https://www.biorhythm.io/) and a so
 
 - Throughout my career, I worked as a backend developer, trainer, documentation writer and business analyst. I have experience in Java, JavaScript, NodeJs, React, Redux, PostgreSQL, Oracle, SQL Server and Express.
 - You'll notice from the wide range of projects that I love building all kinds of things! Check out the rest of my portfolio [here](https://lntellimed.github.io) and on GitHub!
-- To contact me, you can send an e-mail to sam.alsmadi@biorhythm.io
+- To contact me, you can send an e-mail to `sam.alsmadi at biorhythm dot io`
 
 <h1>Latest Blog Posts</h1>
   <ul>
@@ -17,4 +17,4 @@ I am the founder of [BioRhythm Technologies](https://www.biorhythm.io/) and a so
 <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482507001278">➡️ More publications</a></p>
 
 <p><a href="https://www.linkedin.com/in/samalsmadi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sam.alsmadi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@sam.alsmadi"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/story/8840584"><img src="http://img.shields.io/badge/stackoverflow-ORANGE.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> <a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://github.com/lntelliMed"><img src="http://img.shields.io/badge/github-BLACK.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a></p>
-<p><a href="sam.biorhythm.io">🌐 Visit my website</a></p>
+<p><a href="http://sam.biorhythm.io">🌐 Visit my website</a></p>
