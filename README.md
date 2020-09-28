@@ -40,7 +40,7 @@ I am the founder of [BioRhythm Technologies](https://www.biorhythm.io/) and a so
   
 ---
   
-<img align="center" alt="Sam’s Github Stats" src="https://github-readme-stats.vercel.app/api?username=lntellimed&show_icons=true&hide_border=true">
+<img align="center" alt="Sam’s Github Stats" src="https://github-readme-stats.vercel.app/api?username=lntellimed&show_icons=true&hide_border=true&count_private=true">
 
 
 
